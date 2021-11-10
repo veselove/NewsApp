@@ -1073,9 +1073,9 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
-drawable ic_all_news
-drawable ic_breaking_news
-drawable ic_favorite
+drawable ic_baseline_article_24
+drawable ic_baseline_search_24
+drawable ic_baseline_star_24
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_mtrl_chip_checked_black
